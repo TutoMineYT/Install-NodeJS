@@ -5,4 +5,4 @@
 `bas <(curl -s https://raw.githubusercontent.com/TutoMineYT/Install-NodeJS/main/install.sh)`
 
 <h2 align="center">📩 Contact me</h2>
- <h4>🔵 Discord: ! 𝕋𝕦𝕥𝕠𝕄𝕚𝕟𝕖#7272</h4>
+ <h4>🔵 Discord: 𝕋𝕦𝕥𝕠𝕄𝕚𝕟𝕖#7272</h4>
